@@ -1,0 +1,22 @@
+{
+  "name": "NFTVisualization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.0",
+    "child_process": "^1.0.2",
+    "cluster": "^0.7.7",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2",
+    "ethers-proxies": "^1.0.0",
+    "mysql": "^2.18.1",
+    "sleep": "^6.3.0"
+  }
+}
